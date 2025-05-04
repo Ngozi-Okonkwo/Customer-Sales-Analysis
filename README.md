@@ -8,6 +8,17 @@ In my recent project—part of the Microsoft Excel course by **Dahel Techies**�
 
 ---
 
+## 📌 Table of Contents
+
+- [Project Summary](#project-summary)  
+- [Dataset Overview](#dataset-overview)
+- [Tools Used](#tools-used)    
+- [Key Insights](#key-insights)  
+- [Recommendations](#recommendations)  
+- [Connect with Me](#connect-with-me)
+
+---
+
 ## Step 1: Data Exploration
 
 I started with the basics:
